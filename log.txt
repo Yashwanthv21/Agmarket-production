@@ -1,0 +1,10 @@
+2017-02-24 18:27:04 IST+0530
+14/02/2017 Telangana Tomato
+Time taken:10.055s
+
+2017-02-24 18:27:40 IST+0530
+14/02/2017 Telangana Tomato1
+Message: Could not locate element with visible text: Tomato1
+
+Time taken:6.641s
+
